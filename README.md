@@ -17,7 +17,7 @@ Main entry point to the REST API --> MessageApi.java
 
 1) Watson Chat Assistant is used to define conversation flow and branching.  RescueBot Watson Chat Assistant workspace --> https://assistant-us-south.watsonplatform.net/us-south/4675dcda-7ce8-4c56-a000-421c223dfdd0/workspaces/e9fc9a95-fbfb-4210-b8e8-bd40cb3bebe2/build/intents
 
-2) Twilio is used to route text messages to and from the user.  Twilio Account user `jacobwdv@ca.ibm.com`
+2) Twilio is used to route text messages to and from the user. For Twilio Account configuration and access speak with Jacob de Vos.
 
 3) Google Maps API is used for direction retrieval and statc map generation.  For the Google API Key, ask @danto1 on slack. This is used to get map snippets which we MMS back to the user.
 
