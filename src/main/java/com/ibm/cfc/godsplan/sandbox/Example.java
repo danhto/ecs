@@ -15,10 +15,10 @@ import com.mapbox.geojson.Point;
 public class Example
 {
    // Find your Account Sid and Token at twilio.com/user/account
-   public static final String ACCOUNT_SID = "AC5e443ddc79e385a091623984e1903757";
-   public static final String AUTH_TOKEN = "d99f21bfd7f3b13960356520153b806d";
-   public static final String CLIENT_PHONE_NUMBER = "+14162093379";
-   public static final String SERVER_PHONE_NUMBER = "+16476973928";
+   public static final String ACCOUNT_SID = "*";
+   public static final String AUTH_TOKEN = "*";
+   public static final String CLIENT_PHONE_NUMBER = "+*";
+   public static final String SERVER_PHONE_NUMBER = "+*";
 
    public static void main(String[] args) throws ApiException, InterruptedException, IOException, URISyntaxException
    {
